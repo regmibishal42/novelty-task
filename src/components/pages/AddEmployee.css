@@ -1,0 +1,15 @@
+.add-employee,.update-employee{
+    display: flex;
+    flex-direction: row;
+}
+
+.add-employee-form,.update-employee-form{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.employee-input{
+    display: flex;
+    justify-content: column;
+    white-space: nowrap;
+}

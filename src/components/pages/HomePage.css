@@ -1,0 +1,21 @@
+.main-section{
+    display: flex;
+    word-wrap: break-word;
+    width: 100%;
+}
+h2{
+    color: antiquewhite;
+    margin-bottom: 10px;
+}
+.employeeList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.searchField{
+    display: flex;
+    flex-direction: row;
+    
+}
